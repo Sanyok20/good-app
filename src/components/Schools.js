@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { List, Pagination, Avatar } from "antd";
 
-// Масив шкіл
 const schools = [
     { name: "Рівненський ліцей №1", img: "https://cdn4.suspilne.media/images/494cfbc347295092.png" },
     { name: "Рівненський ліцей №2", img: "https://files.ratelist.top/uploads/images/bs/5509/photos/60cc1661230ed0f72f332b6526f81ba0-original.webp" },
