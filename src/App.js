@@ -7,7 +7,7 @@ import Privacy from './components/Privacy';
 import { Route, Routes } from 'react-router-dom';
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
-import Schools from './components/Schools';
+import Schools, { schools } from "./components/Schools";
 import {
   MenuFoldOutlined,
   MenuUnfoldOutlined,
